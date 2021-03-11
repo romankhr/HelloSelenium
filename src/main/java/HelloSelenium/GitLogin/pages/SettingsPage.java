@@ -9,9 +9,12 @@ public class SettingsPage extends Page {
         super(driver);
     }
 
+    //Insert your account name
+    private String accountName = "Account Name";
+    private String nameRepositoryToDelete = accountName+"/TestRepository";
+
     private String deleteLocator = "//div[@class='Box Box--danger']/ul[1]/li[4]//summary[contains(text(),'Delete this repository')]";
     private String typeConfirmLocator = "//div[@class='Box-body overflow-auto']/form[1]/p[1]/input[1]";
-    private String nameRepositoryToDelete = "romankhr/TestRepository";
     private String deleteConfirmLocator = "//button[@class='btn btn-block btn-danger']//span[contains(text(),'I understand the consequences, delete this reposit')]";
 
 

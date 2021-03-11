@@ -5,10 +5,13 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
 public class LogInFormPage extends Page {
+
+    //Insert your credentials
+    private String EMAIL="email";
+    private String PASSWORD="Password";
+
     private String eMailLocator="//input[@id='login_field']";
     private String passwordLocator="//input[@id='password']";
-    private String EMAIL="romankhr@yahoo.com";
-    private String PASSWORD="Olgaolga2410";
     private String logInButtonLocator="//input[@class='btn btn-primary btn-block']";
 
     public LogInFormPage(RemoteWebDriver driver) {

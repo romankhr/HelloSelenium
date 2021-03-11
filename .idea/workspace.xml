@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fcd5bb5-e4ac-404c-bf27-8d58168253c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Softserve" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloSelenium.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/HelloSelenium/GitLogin/pages/LogInFormPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HelloSelenium/GitLogin/pages/LogInFormPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HelloSelenium/GitLogin/pages/NewRepositoryPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HelloSelenium/GitLogin/pages/NewRepositoryPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HelloSelenium/GitLogin/pages/RepositoryPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HelloSelenium/GitLogin/pages/RepositoryPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HelloSelenium/GitLogin/pages/SettingsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HelloSelenium/GitLogin/pages/SettingsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/HelloSelenium/GitLogin/GitLoginTests/GitLoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/HelloSelenium/GitLogin/GitLoginTests/GitLoginTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/HelloSelenium.kotlin_module" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +30,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HelloSelenium2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -93,6 +89,7 @@
       <updated>1615211464639</updated>
       <workItem from="1615211477039" duration="15918000" />
       <workItem from="1615320299801" duration="8052000" />
+      <workItem from="1615453001465" duration="271000" />
     </task>
     <servers />
   </component>
@@ -114,7 +111,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
