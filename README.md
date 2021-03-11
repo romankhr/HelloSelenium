@@ -4,7 +4,7 @@ Please type your credentials in two files...
 
 LogInFormPage.java
 
-  //Insert your credentials
+  //Insert your credentials  email     Password
 
     private String EMAIL="email";
     private String PASSWORD="Password";
