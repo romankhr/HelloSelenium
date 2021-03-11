@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2fcd5bb5-e4ac-404c-bf27-8d58168253c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Softserve" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HelloSelenium/GitLogin/pages/LogInFormPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HelloSelenium/GitLogin/pages/LogInFormPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HelloSelenium/GitLogin/pages/NewRepositoryPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HelloSelenium/GitLogin/pages/NewRepositoryPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HelloSelenium/GitLogin/pages/RepositoryPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HelloSelenium/GitLogin/pages/RepositoryPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HelloSelenium/GitLogin/pages/SettingsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HelloSelenium/GitLogin/pages/SettingsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/HelloSelenium/GitLogin/GitLoginTests/GitLoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/HelloSelenium/GitLogin/GitLoginTests/GitLoginTests.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1pTeNCgUCkURAOH6LoA6aXjwDCk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HelloSelenium2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SoftServ\HelloSelenium" />
+      <recent name="D:\SoftServ\HelloSelenium\src\test\java\HelloSelenium" />
+      <recent name="D:\SoftServ\HelloSelenium\src\main\java\HelloSelenium" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="GitLoginTests.gitLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HelloSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HelloSelenium.GitLogin.GitLoginTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="HelloSelenium.GitLogin.GitLoginTests" />
+      <option name="MAIN_CLASS_NAME" value="HelloSelenium.GitLogin.GitLoginTests.GitLoginTests" />
+      <option name="METHOD_NAME" value="gitLoginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.GitLoginTests.gitLoginTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fcd5bb5-e4ac-404c-bf27-8d58168253c6" name="Default Changelist" comment="" />
+      <created>1615211464639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615211464639</updated>
+      <workItem from="1615211477039" duration="15918000" />
+      <workItem from="1615320299801" duration="8052000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
